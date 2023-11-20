@@ -90,12 +90,12 @@ public class BotCreated extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "t.me/valyuta_UZS_USD_EUR_RUB_Bot";
+        return "t.me/UZB_DUNYO_VALYUTA_BOT.";
     }
 
     @Override
     public String getBotToken() {
-        return "6343941673:AAG8NyTniGKJ6sxQJfYDywNp2ZmjS-ls7aE";
+        return "6279351680:AAGm3WRjcRGgyk2qEWLNHyca1ty687gKj3E";
     }
     private void execute( List<Object> methods )
     {
