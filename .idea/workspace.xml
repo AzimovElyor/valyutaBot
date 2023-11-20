@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a56f85-5f98-438a-b32f-80fc424ed085" name="Changes" comment="" />
+    <list default="true" id="76a56f85-5f98-438a-b32f-80fc424ed085" name="Changes" comment="Manifest added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/valyuta/user/User.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/valyuta/user/User.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/valyuta/valyutaBot/BotInitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/valyuta/valyutaBot/BotInitial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AzimovElyor"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f1cdc626-8aa8-413d-b814-b0ed13a60171" />
+        <option name="url" value="https://github.com/AzimovElyor/valyutaBot.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -161,12 +180,25 @@
       <workItem from="1689002455995" duration="4197000" />
       <workItem from="1689041952178" duration="2119000" />
       <workItem from="1689055592259" duration="2836000" />
-      <workItem from="1700463453487" duration="947000" />
+      <workItem from="1700463453487" duration="1591000" />
     </task>
+    <task id="LOCAL-00001" summary="Manifest added">
+      <option name="closed" value="true" />
+      <created>1700464673235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700464673235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Manifest added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manifest added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
