@@ -66,10 +66,8 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>true</addClasspath>
-                            <classpathPrefix>lib/</classpathPrefix>
                             <mainClass>
-                                package org.valyuta.valyutaBot.BotInitial
+                                 org.valyuta.valyutaBot.BotInitial
                             </mainClass>
                         </manifest>
                     </archive>
