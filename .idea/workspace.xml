@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a56f85-5f98-438a-b32f-80fc424ed085" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/valyuta/user/User.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/valyuta/user/User.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/valyuta/valyutaBot/BotCreated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/valyuta/valyutaBot/BotCreated.java" afterDir="false" />
-    </list>
+    <list default="true" id="76a56f85-5f98-438a-b32f-80fc424ed085" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
@@ -165,7 +161,7 @@
       <workItem from="1689002455995" duration="4197000" />
       <workItem from="1689041952178" duration="2119000" />
       <workItem from="1689055592259" duration="2836000" />
-      <workItem from="1700463453487" duration="645000" />
+      <workItem from="1700463453487" duration="947000" />
     </task>
     <servers />
   </component>
