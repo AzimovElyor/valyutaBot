@@ -71,7 +71,7 @@ public class Keyboards {
 
         inlineKeyboardButton.setCallbackData("Murojat");
 
-        inlineKeyboardButton.setUrl("https://t.me/elyorAzimov_12_02");
+        inlineKeyboardButton.setUrl("https://t.me/elyorazimov");
 
 
         return new InlineKeyboardMarkup(List.of(List.of(inlineKeyboardButton)));

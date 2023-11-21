@@ -30,7 +30,7 @@ public class CurrenciesValues {
             result.append("\n");
         }
         result.append(" \uD83D\uDD52 Sana: ").append(main.get(0).getDate()).append("\n");
-        result.append("@valyuta_UZS_USD_EUR_RUB_Bot");
+        result.append("https://t.me/UZB_DUNYO_VALYUTA_BOT");
 
         return result.toString();
     }
@@ -47,7 +47,7 @@ public class CurrenciesValues {
             result.append("\n");
         }
         result.append(" \uD83D\uDD52 Sana: ").append(all.get(0).getDate()).append("\n");
-        result.append("@valyuta_UZS_USD_EUR_RUB_Bot");
+        result.append("https://t.me/UZB_DUNYO_VALYUTA_BOT");
         return result.toString();
     }
     private String getString(List<Currency> mainCurrency, List<String> flags) {
@@ -61,7 +61,7 @@ public class CurrenciesValues {
             response.append("\n");
         }
         response.append(" \uD83D\uDD52 Sana: ").append(mainCurrency.get(0).getDate()).append("\n");
-        response.append("@valyuta_UZS_USD_EUR_RUB_Bot");
+        response.append("https://t.me/UZB_DUNYO_VALYUTA_BOT");
         return response.toString();
     }
 }
